@@ -9,8 +9,8 @@ Stuff that I'm interested in:
 - 🎲 Dungeons & Dragons 
 
 ## You can find more from me here:
-- Sharing knowledge on my blog [![Owahu](www.owahu.de)]
-- Releasing youtube videos on my [![channel](https://www.youtube.com/channel/UCjHYwGrzUma28086u9-IENg)]
+- Sharing knowledge on my blog [Owahu](www.owahu.de)
+- Releasing youtube videos on my [channel](https://www.youtube.com/channel/UCjHYwGrzUma28086u9-IENg)
 - 
 ---
 

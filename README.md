@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi I'm Oliver 👋
 
+
+
+
+[![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=freezor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Freezor/Freezor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

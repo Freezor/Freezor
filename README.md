@@ -1,25 +1,32 @@
-### Hi I'm Oliver 👋
+### Hello, I'm Oliver! 👋
 
-I'm a software developer working in different areas of development processes such as requirements engineering, QA, IT support and in development teams in international agile projects since 2008. I discover new things that fascinate me in technology on a daily basis, which leads to many small side projects, where I like to thinker with them.
+I am a seasoned and passionate software developer with a wealth of experience spanning over a decade, having immersed myself in various facets of the development process since 2008. Throughout my career, I've contributed to and navigated the realms of requirements engineering, quality assurance, IT support, and collaborative work within dynamic, international agile projects.
 
-Stuff that I'm interested in:
-- 🧼 I love Clean(er) Code
-- 📱 Mobile application development
-- 🎮 Unity game development
-- 🎲 Dungeons & Dragons 
+My daily journey through the ever-evolving landscape of technology is a testament to my insatiable curiosity and eagerness to explore new horizons. This constant quest for knowledge leads me to discover and engage with fascinating aspects of technology, often inspiring the creation of numerous side projects where I enjoy experimenting and refining my skills.
 
-## You can find more from me here:
-- Sharing knowledge on my blog [Owahu](www.owahu.de)
-- Releasing youtube videos on my [channel](https://www.youtube.com/channel/UCjHYwGrzUma28086u9-IENg)
-- 
----
+#### What captivates me in the tech universe:
 
-## Some github stats of me
+- 🧼 **Crafting Clean Code:** I am dedicated to the art of writing code that not only works but is elegant, maintainable, and a joy to read.
+- 📱 **Mobile Application Development:** Embracing the exciting challenges of creating innovative and user-friendly mobile applications.
+- 🎮 **Unity Game Development:** Venturing into the captivating world of game development using the Unity engine.
+- 🤖 **Fascination with AI:** Exploring the boundless possibilities and applications of artificial intelligence.
+- 🎲 **Dungeons & Dragons Enthusiast:** Unleashing creativity and strategy in the magical world of tabletop role-playing games.
 
-[![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=freezor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Discover more about me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- 🌐 Sharing insights and knowledge on my blog [Owahu](www.owahu.de)
+- 🎥 Releasing informative content on my [YouTube Channel](https://www.youtube.com/channel/UCjHYwGrzUma28086u9-IENg)
 
 ---
 
-Visitors: ttps://visitor-badge.glitch.me/badge?page_id=freezor.visitor-badge
+## GitHub Highlights:
+
+[![Oliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freezor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freezor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+👤 Visitors: [![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=freezor.visitor-badge)](https://github.com/boennemann/badges)
+
+Feel free to delve into my repositories, and don't hesitate to reach out for collaboration, insights, or just a friendly conversation! 😊

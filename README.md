@@ -14,7 +14,7 @@ My daily journey through the ever-evolving landscape of technology is a testamen
 
 ## Discover more about me:
 
-- 🌐 Sharing insights and knowledge on my blog [Owahu](www.owahu.de)
+- 🌐 Sharing insights and knowledge on my blog [[Owahu]([www.owahu.de](https://www.owahu.de/))](https://www.owahu.de/)
 - 🎥 Releasing informative content on my [YouTube Channel](https://www.youtube.com/channel/UCjHYwGrzUma28086u9-IENg)
 
 ---

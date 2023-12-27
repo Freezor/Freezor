@@ -27,6 +27,4 @@ My daily journey through the ever-evolving landscape of technology is a testamen
 
 ---
 
-👤 Visitors: [![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=freezor.visitor-badge)](https://github.com/boennemann/badges)
-
 Feel free to delve into my repositories, and don't hesitate to reach out for collaboration, insights, or just a friendly conversation! 😊

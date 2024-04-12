@@ -10,7 +10,7 @@ My daily journey through the ever-evolving landscape of technology is a testamen
 - 📱 **Mobile Application Development:** Embracing the exciting challenges of creating innovative and user-friendly mobile applications.
 - 🎮 **Unity Game Development:** Venturing into the captivating world of game development using the Unity engine.
 - 🤖 **Fascination with AI:** Exploring the boundless possibilities and applications of artificial intelligence.
-- 🎲 **Dungeons & Dragons Enthusiast:** Unleashing creativity and strategy in the magical world of tabletop role-playing games.
+- 🎲 **Dungeons & Dragons:** Unleashing creativity and strategy in the magical world of tabletop role-playing games.
 
 ## Discover more about me:
 
@@ -21,9 +21,14 @@ My daily journey through the ever-evolving landscape of technology is a testamen
 
 ## GitHub Highlights:
 
-[![Oliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freezor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Freezor's GitHub stats](https://github-readme-stats.vercel.app/api?username=freezor&show_icons=true&theme=dark)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freezor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Currently active in the following project(s)
+
+[![AASX Server](https://github-readme-stats.vercel.app/api/pin/?username=eclipse-aaspe&repo=aasx-server)](https://github.com/eclipse-aaspe/aasx-server)
+
 
 ---
 

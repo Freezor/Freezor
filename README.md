@@ -1,8 +1,8 @@
 ### Hello, I'm Oliver! 👋
 
-I am a seasoned and passionate software developer with a wealth of experience spanning over a decade, having immersed myself in various facets of the development process since 2008. Throughout my career, I've contributed to and navigated the realms of requirements engineering, quality assurance, IT support, and collaborative work within dynamic, international agile projects.
+I am a seasoned and passionate software developer with over a decade of experience, having immersed myself in various facets of the development process since 2008. Throughout my career, I've contributed to and navigated the realms of requirements engineering, quality assurance, IT support, and collaborative work within dynamic, international agile projects.
 
-My daily journey through the ever-evolving landscape of technology is a testament to my insatiable curiosity and eagerness to explore new horizons. This constant quest for knowledge leads me to discover and engage with fascinating aspects of technology, often inspiring the creation of numerous side projects where I enjoy experimenting and refining my skills.
+My journey through the ever-evolving landscape of technology is a testament to my insatiable curiosity and eagerness to explore new horizons. This constant quest for knowledge leads me to discover and engage with fascinating aspects of technology, often inspiring the creation of numerous side projects where I enjoy experimenting and refining my skills.
 
 #### What captivates me in the tech universe:
 
@@ -29,6 +29,9 @@ My daily journey through the ever-evolving landscape of technology is a testamen
 
 [![AASX Server](https://github-readme-stats.vercel.app/api/pin/?username=eclipse-aaspe&repo=aasx-server)](https://github.com/eclipse-aaspe/aasx-server)
 
+[![AASX Package Explorer](https://github-readme-stats.vercel.app/api/pin/?username=eclipse-aaspe&repo=package-explorer)](https://github.com/eclipse-aaspe/package-explorer)
+
+[![AASX Common](https://github-readme-stats.vercel.app/api/pin/?username=eclipse-aaspe&repo=common)](https://github.com/eclipse-aaspe/common)
 
 ---
 

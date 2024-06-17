@@ -15,7 +15,6 @@ My journey through the ever-evolving landscape of technology is a testament to m
 ## Discover more about me:
 
 - 🌐 Sharing insights and knowledge on my blog [Owahu](https://www.owahu.de)
-- 🎥 Releasing informative content on my [YouTube Channel](https://www.youtube.com/channel/UCjHYwGrzUma28086u9-IENg)
 
 ---
 

@@ -24,14 +24,6 @@ My journey through the ever-evolving landscape of technology is a testament to m
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freezor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Currently active in the following project(s)
-
-[![AASX Server](https://github-readme-stats.vercel.app/api/pin/?username=eclipse-aaspe&repo=aasx-server)](https://github.com/eclipse-aaspe/aasx-server)
-
-[![AASX Package Explorer](https://github-readme-stats.vercel.app/api/pin/?username=eclipse-aaspe&repo=package-explorer)](https://github.com/eclipse-aaspe/package-explorer)
-
-[![AASX Common](https://github-readme-stats.vercel.app/api/pin/?username=eclipse-aaspe&repo=common)](https://github.com/eclipse-aaspe/common)
-
 ---
 
 Feel free to delve into my repositories, and don't hesitate to reach out for collaboration, insights, or just a friendly conversation! 😊

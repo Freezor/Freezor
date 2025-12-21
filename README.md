@@ -1,21 +1,44 @@
-### Hello, I'm Freezor! 👋
+## 👋 Hi, I'm Oliver
 
-I am a seasoned and passionate software developer with over a decade of experience, having immersed myself in various facets of the development process since 2008. Throughout my career, I've contributed to and navigated the realms of requirements engineering, quality assurance, IT support, and collaborative work within dynamic, international agile projects.
+I make complex software and data landscapes manageable again.
 
-My journey through the ever-evolving landscape of technology is a testament to my insatiable curiosity and eagerness to explore new horizons. This constant quest for knowledge leads me to discover and engage with fascinating aspects of technology, often inspiring the creation of numerous side projects where I enjoy experimenting and refining my skills.
+I help companies bring structure and stability into systems that have grown too complex —
+before delivery slows down, legacy code blocks progress, or unstructured data prevents scaling.
 
-## Discover more about me:
+My focus is on reliability, clarity, and long-term maintainability.
 
-- 🌐 Sharing insights and knowledge on my blog [Owahu](https://www.owahu.de)
+### What I work on
 
----
+- Stabilizing software delivery and release processes
+- Reducing complexity in legacy systems
+- Designing testable, evolvable architectures
+- Structuring and integrating data landscapes
+- Implementing standards like Asset Administration Shells (AAS)
 
-## GitHub Highlights:
+### How I think
 
-![Freezor's GitHub stats](https://github-readme-stats.vercel.app/api?username=freezor&show_icons=true&theme=dark)
+I focus on structure over tools.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freezor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Most systems don't fail because of missing technology —
+they fail because complexity becomes unmanageable.
 
----
+My work is about:
+- making systems understandable again
+- enabling reliable delivery
+- creating foundations that scale without breaking
 
-Feel free to delve into my repositories, and don't hesitate to reach out for collaboration, insights, or just a friendly conversation! 😊
+### Technology & Domains
+
+- C# / .NET
+- Software Architecture & Refactoring
+- CI/CD & Release Pipelines
+- Testability & TDD
+- Data Integration & Modeling
+- Industry Standards (AAS / Digital Twins)
+  
+### Contact
+
+If you work with complex systems that have become hard to manage,
+feel free to reach out.
+
+I’m interested in problems where structure makes the difference.
